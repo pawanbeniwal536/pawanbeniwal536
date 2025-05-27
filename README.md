@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Pawan Beniwal</h1>
+<h1 align="center">Hi 👋, I'm Pawan Beniwal</h1>
 <h3 align="center">A passionate Full Stack (MERN) Developer</h3>
 
 - 🔭 **I’m currently working on:** Chat & Video Call App
