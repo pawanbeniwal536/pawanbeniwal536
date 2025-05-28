@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack (MERN) Developer</h3>
 
 - 🔭 **I’m currently working on:** Chat & Video Call App
-- 🌱 **I’m currently learning:** Web RTC , AWS , LeetCode Problems
+- 🌱 **I’m currently learning:** Web Sockets , AWS , LeetCode Problems
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 📫 **How to reach me:** pawanbeniwal012@gmail.com
 - 😄 **Pronouns:** Pawan Developer
