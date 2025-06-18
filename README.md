@@ -4,6 +4,7 @@
 - 🔭 **I’m currently working on:** Chat & Video Call App
 - 🌱 **I’m currently learning:** Web Sockets , AWS , LeetCode Problems
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🎮 **Fun Time Project:** [Rock Paper Scissors Game](https://fun-time-game-ten.vercel.app/) —  A fun game to play in your free time. 😄 Who's smarter — **CPU or YOU**? 😄 Built with React, Tailwind CSS, and Framer Motion.
 - 📫 **How to reach me:** pawanbeniwal012@gmail.com
 - 😄 **Pronouns:** Pawan Developer
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
